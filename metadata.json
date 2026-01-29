@@ -1,0 +1,7 @@
+{
+  "name": "crocsthepenai",
+  "description": "An advanced AI multiverse powered by Gemini, featuring text, image, voice, and website generation with a premium experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
